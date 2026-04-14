@@ -1,4 +1,4 @@
-Esse sistema Simula o fluxo de caixa de um mercado com cálculo automático de impostos e descontos por categoria. 
+Esse sistema simula o fluxo de caixa de um mercado com cálculo automático de impostos e descontos por categoria. 
 Eu utilizei os seguintes conceitos:
 - Polimorfismo
 - Herança e abstração
